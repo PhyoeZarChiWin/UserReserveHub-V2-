@@ -1,0 +1,6 @@
+{
+  "name": "ReserveHub",
+  "description": "Discover and book restaurants, venues, meeting rooms, and premium services with live slot selection and booking management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
